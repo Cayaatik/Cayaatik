@@ -9,6 +9,9 @@ I enjoy working on full-stack projects, front-end design, and database-driven sy
 ---
 
 ## 🔧 Technologies & Tools
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### **Languages**
  HTML • CSS • JavaScript  
