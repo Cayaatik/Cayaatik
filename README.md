@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Atika Isse Ali  
+![GPG Verified](https://img.shields.io/badge/GPG-Verified-success?style=for-the-badge&logo=gnupg)
 ### IT Student | Aspiring Full-Stack Developer | Front-End Enthusiast
 
 Welcome to my GitHub!  
@@ -10,7 +11,7 @@ I enjoy working on full-stack projects, front-end design, and database-driven sy
 ## 🔧 Technologies & Tools
 
 ### **Languages**
-- HTML • CSS • JavaScript  
+ HTML • CSS • JavaScript  
 - PHP • SQL (SQL Server & MySQL)  
 - C# (Windows Forms)
 
