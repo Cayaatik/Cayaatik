@@ -28,9 +28,12 @@ I enjoy working on full-stack projects, front-end design, and database-driven sy
 
 ---
 
-## 📊 My GitHub Stats
-![Atika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cayaatik&show_icons=true&theme=tokyonight)
----
+## 📊 My GitHub Stats & Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cayaatik&show_icons=true&theme=tokyonight" alt="Atika's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayaatik&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
 
 ## ⭐ Featured Projects
 
