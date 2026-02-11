@@ -24,8 +24,8 @@
 ---
 
 ## 📊 Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=Cayaatik&show_icons=true&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayaatik&layout=compact&theme=tokyonight&hide_border=true)
+![Stats Card](https://github-readme-stats.vercel.app/api?username=Cayaatik&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayaatik&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
