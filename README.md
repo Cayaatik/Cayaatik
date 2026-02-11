@@ -21,17 +21,21 @@
 | [**Food Calculator**](https://github.com/Cayaatik) | C# WinForms | [Repo] |
 
 ---
+---
 
 ## 📊 Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cayaatik&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayaatik&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cayaatik&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayaatik&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Languages Card" />
 </p>
 
 ---
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/atikaisseali) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atikaisseali6442@gmail.com) ![Views](https://visitcount.itsvg.in/api?id=Cayaatik&label=Views&color=12&icon=5&pretty=true)
-
+<p align="left">
+<a href="https://www.linkedin.com/in/atikaisseali"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:atikaisseali6442@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://visitcount.itsvg.in/api?id=Cayaatik&label=Views&color=12&icon=5&pretty=true" alt="Views" />
+</p>
 
 
